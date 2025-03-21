@@ -87,3 +87,94 @@ This sales analysis was conducted **exclusively using Excel**, employing the fol
 ## Conclusion 🚀  
 
 The insights from this analysis offer a clear strategic roadmap to enhance sales performance. By prioritizing high-revenue opportunities, refining marketing efforts for key product categories, and aligning inventory with peak demand periods, the business can boost profitability and strengthen customer engagement. Furthermore, implementing data-driven promotional strategies during underperforming months can help drive sustained growth and ensure more consistent revenue streams.  
+
+
+# Informe de Análisis de Ventas 📊
+
+## Descripción General  
+
+Este informe presenta un análisis exhaustivo del desempeño de ventas basado en métricas clave como ingresos totales, volumen de pedidos, gasto promedio por cliente y tiempos de entrega. Los datos se visualizan a través de diversos gráficos para identificar tendencias, patrones y oportunidades de crecimiento para el negocio.  
+
+## Métricas Clave  
+
+- **Total de Pedidos:** 1,000  
+- **Ingresos Totales:** \$3,520,984.00  
+- **Tiempo Promedio de Entrega:** 5.53 días  
+- **Gasto Promedio por Cliente:** \$3,520.98  
+
+## Análisis de Ingresos 📈  
+
+### Ingresos por Ocasión  
+
+Una evaluación del desempeño de ventas en diferentes festividades y eventos especiales revela lo siguiente:  
+
+- Las ocasiones que generan mayores ingresos incluyen **Anniversary, Raksha Bandhan y Holi**.  
+- **Valentine’s Day y Diwali** muestran ingresos comparativamente más bajos, lo que indica oportunidades para campañas promocionales específicas.  
+
+### Ingresos por Categoría de Producto  
+
+Una comparación de las categorías de productos proporciona información sobre su contribución a los ingresos totales:  
+
+- La categoría **Colors** genera los mayores ingresos.  
+- **Sweets y Soft Toys** también muestran un fuerte desempeño en ventas.  
+- **Mugs, Plants y Cake** contribuyen con menores ingresos, lo que sugiere potencial para esfuerzos promocionales que impulsen las ventas.  
+
+### Ingresos por Hora del Pedido  
+
+El análisis de ingresos basado en la hora del pedido destaca las **horas más rentables**, que son **6 AM, 12 PM, 3 PM, 6 PM, 7 PM, 8 PM y 11 PM**, contribuyendo significativamente a los ingresos totales.  
+
+#### Hallazgos Clave  
+
+- **Dominio de la Tarde:**  
+  - **8 PM (20:00) - \$186,426.00** y **7 PM (19:00) - \$185,771.00** indican que las ventas más altas ocurren en la tarde, probablemente debido a compras después del trabajo o durante la cena.  
+  - **6 PM (18:00) - \$173,118.00** también muestra una fuerte actividad del consumidor, reforzando la tendencia vespertina.  
+
+- **Actividad Matutina:**  
+  - **6 AM (06:00) - \$177,211.00** sugiere una demanda notable durante las primeras horas, posiblemente de profesionales que trabajan o madrugadores.  
+
+- **Demanda al Mediodía:**  
+  - **12 PM (12:00) - \$162,394.00** y **3 PM (15:00) - \$163,586.00** muestran un pico secundario, probablemente debido a pausas para el almuerzo o hábitos de compra temprano en la tarde.  
+
+### Ingresos por Mes 📊  
+
+Un análisis mensual de ingresos identifica períodos de alto y bajo desempeño, apoyando la planificación estratégica:  
+
+- **Meses con mayores ingresos:**  
+  - **August (\$737,389.00)** y **February (\$704,509.00)** registraron las ventas más altas, probablemente impulsadas por promociones estacionales y eventos.  
+  - **March (\$511,823.00)** y **November (\$449,169.00)** también tuvieron un buen desempeño.  
+
+- **Meses con menores ingresos:**  
+  - **January (\$95,468.00)**, **July (\$135,826.00)** y **September (\$136,938.00)** reportaron las cifras de ventas más bajas.  
+  - **April (\$140,393.00)** y **December (\$149,591.00)** también tuvieron un desempeño inferior, presentando oportunidades para iniciativas de marketing.  
+
+- **Recomendaciones Accionables:**  
+  - Implementar promociones y descuentos específicos durante los **meses de bajo desempeño** para impulsar las ventas.  
+  - Aprovechar los **meses de mayores ingresos** con ofertas especiales para maximizar la rentabilidad.  
+
+### Top 10 Ciudades por Número de Pedidos 🏙️  
+
+- Los mayores volúmenes de pedidos se observan en **Imphal, Dhanbad y Kavali**.  
+- Estas ciudades representan mercados clave para la expansión y el aumento del compromiso con los clientes.  
+
+### Análisis de Popularidad de Productos por Ocasión 🎁  
+
+Esta sección destaca los **5 productos más vendidos** por ocasión, apoyando la planificación de inventario y promociones:  
+
+- **Populares en todas las ocasiones:** Magnam Set, Exercitationem Pack y Expedita Gift.  
+- **Anniversary:** Dignissimos Pack, Delectus Gift y Provident Pack lideran en ventas.  
+- **Birthday:** Deserunt Box, Fuga Set y Voluptatem Box son los más vendidos.  
+- **Holi:** Harum Pack, Nam Gift y Et Set muestran la mayor demanda.  
+- **Raksha Bandhan:** Dolores Gift, Nostrum Box y Aperiam Box generan fuertes ventas.  
+- **Valentine’s Day:** Eius Gift, Sed Pack y Iure Gift son los más populares.  
+
+## Herramientas y Metodología ⚙️  
+
+Este análisis de ventas se realizó **exclusivamente utilizando Excel**, empleando las siguientes herramientas:  
+
+- **Power Pivot** para modelado de datos y cálculos.  
+- **Pivot Tables** para resumir y analizar tendencias de ventas.  
+- **Dynamic Charts** para la representación visual de métricas clave.  
+
+## Conclusión 🚀  
+
+Los hallazgos de este análisis ofrecen una hoja de ruta estratégica clara para mejorar el desempeño de ventas. Al priorizar oportunidades de alto rendimiento, optimizar los esfuerzos de marketing en categorías clave y alinear el inventario con los períodos de mayor demanda, el negocio puede aumentar la rentabilidad y fortalecer el compromiso con los clientes. Además, la implementación de estrategias promocionales basadas en datos durante los meses de bajo desempeño puede impulsar un crecimiento sostenido y garantizar flujos de ingresos más consistentes.  
