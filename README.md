@@ -28,15 +28,23 @@ A comparison of product categories provides insight into their contribution to o
 - **Sweets and Soft Toys** also demonstrate strong sales performance.  
 - **Mugs, Plants, and Cake** contribute lower revenue, suggesting potential for promotional efforts to boost sales.  
 
-### Revenue by Order Time  
+### Revenue by Hour (Order Time)  
 
-Analyzing revenue distribution by order time highlights key purchasing patterns:  
+The analysis of revenue based on order time highlights the **most profitable hours**, which are **6 AM, 12 PM, 3 PM, 6 PM, 7 PM, 8 PM, and 11 PM**, contributing significantly to total earnings.  
 
-- **Peak order hours:** **6:00 AM, 12:00 PM, 3:00 PM, and between 6:00 PM and 8:00 PM.**  
-- A **significant decline** in sales is observed between **4:00 AM and 6:00 AM**.  
-- These insights can aid in optimizing staffing and resource allocation for order processing.  
+#### Key Findings  
 
-## Revenue by Month 📊  
+- **Evening Dominance:**  
+  - **8 PM (20:00) - \$186,426.00** and **7 PM (19:00) - \$185,771.00** indicate that the highest sales occur in the evening, likely due to post-work and dinner-time purchases.  
+  - **6 PM (18:00) - \$173,118.00** also shows strong consumer activity, reinforcing the evening trend.  
+
+- **Morning Activity:**  
+  - **6 AM (06:00) - \$177,211.00** suggests a noticeable demand during early hours, possibly from working professionals or early risers.  
+
+- **Midday Demand:**  
+  - **12 PM (12:00) - \$162,394.00** and **3 PM (15:00) - \$163,586.00** show a secondary peak, likely due to lunch breaks or early afternoon shopping habits.  
+
+### Revenue by Month 📊  
 
 A monthly revenue analysis identifies peak and low-performing periods, aiding in strategic planning:  
 
@@ -57,7 +65,7 @@ A monthly revenue analysis identifies peak and low-performing periods, aiding in
 - The highest order volumes are observed in **Imphal, Dhanbad, and Kavali**.  
 - These cities represent key markets for expansion and increased customer engagement.  
 
-## Analysis of Product Popularity by Occasion 🎁  
+### Analysis of Product Popularity by Occasion 🎁  
 
 This section highlights the **top 5 best-selling products** per occasion, supporting inventory and promotional planning:  
 
@@ -78,4 +86,4 @@ This sales analysis was conducted **exclusively using Excel**, employing the fol
 
 ## Conclusion 🚀  
 
-The insights from this analysis offer a clear strategic roadmap to enhance sales performance. By prioritizing high-revenue opportunities, refining marketing efforts for key product categories, and aligning inventory with peak demand periods, the business can boost profitability and strengthen customer engagement. Furthermore, implementing data-driven promotional strategies during underperforming months can help drive sustained growth and ensure more consistent revenue streams.
+The insights from this analysis offer a clear strategic roadmap to enhance sales performance. By prioritizing high-revenue opportunities, refining marketing efforts for key product categories, and aligning inventory with peak demand periods, the business can boost profitability and strengthen customer engagement. Furthermore, implementing data-driven promotional strategies during underperforming months can help drive sustained growth and ensure more consistent revenue streams.  
